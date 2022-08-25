@@ -1,0 +1,31 @@
+5
+servidor
+invernadero
+campo de cultivo
+instalación industrial(origen)
+perímetro de vigilancia
+-1
+40 servidor-invernadero
+70 servidor-campo de cultivo
+1000 servidor-instalación industrial(origen)
+30 servidor-perímetro de vigilancia
+40 servidor-invernadero
+-1
+20 invernadero-campo
+50 invernadero-instalación industrial(origen)
+60 invernadero-perímetro de vigilancia
+70 servidor-campo de cultivo
+20 invernadero-campo
+-1
+-1
+60 campo de cultivo-perímetro de vigilancia
+1000 servidor-instalación industrial(origen)
+50 invernadero-instalación industrial(origen)
+-1
+-1
+10 instalación industrial(origen)-perímetro de vigilancia
+30 servidor-perímetro de vigilancia
+60 invernadero-perímetro de vigilancia
+60 campo de cultivo-perímetro de vigilancia
+10 instalación industrial(origen)-perímetro de vigilancia
+-1

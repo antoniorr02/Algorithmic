@@ -1,0 +1,31 @@
+5
+Etsiit
+Medicina
+Ciencias
+Empresariales(origen)
+Farmacia
+-1
+40 Etsiit-Medicina
+70 Etsiit-Ciencias
+1000 Etsiit-Empresariales(origen)
+30 Etsiit-Farmacia
+40 Etsiit-Medicina
+-1
+20 Medicina-campo
+50 Medicina-Empresariales(origen)
+60 Medicina-Farmacia
+70 Etsiit-Ciencias
+20 Medicina-campo
+-1
+-1
+60 Ciencias-Farmacia
+1000 Etsiit-Empresariales(origen)
+50 Medicina-Empresariales(origen)
+-1
+-1
+10 Empresariales(origen)-Farmacia
+30 Etsiit-Farmacia
+60 Medicina-Farmacia
+60 Ciencias-Farmacia
+10 Empresariales(origen)-Farmacia
+-1
